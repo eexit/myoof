@@ -1,0 +1,10 @@
+My Object Oriented Form
+_______________________
+
+Current version:        2.00
+PHP version needed:     5.1.0
+Class number:           6 [Element, Input, Textarea, Select, Option, Optgroup]
+Interface number:       1 [OptionHandler]
+Release date:           2008-12-18
+Author:                 Joris Berthelot <admin@eexit.net>
+Project Website:        http://myoof.eexit.net
